@@ -5,10 +5,12 @@ Written in Python.
 ***Introduction***\
     Takes youtube videos and converts them to mp3 files
 
-First | Second 
---- | --- 
-Content | Content  
-Content | Content  
+First | Second
+--- | ---
+Content | Content
+Content | Content
+Content | Content
+Content | Content
 
 ***System Requirements***\
 Name       |    Command
