@@ -5,8 +5,8 @@ Date    12/23/2019
 '''
 # import libraries
 from __future__ import unicode_literals  # turn every string into unicode
-import youtube_dl                        # download youtube video by url
-import os                                # create/navigate directories
+import youtube_dl                        # download youtube video by URL
+import os                                # create & navigate directories
 
 # configs
 download_options = {
