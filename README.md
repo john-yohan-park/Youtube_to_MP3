@@ -5,7 +5,7 @@ Written in Python.
 ***Introduction***\
     Takes youtube videos and converts them to mp3 files
 
-***System Requirements***\
+***System Requirements***
 
 Name | Command
 --- | ---
