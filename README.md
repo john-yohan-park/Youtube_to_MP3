@@ -3,7 +3,7 @@
 Written in Python.
 
 ## Introduction
-    Convert youtube URLs to mp3 files
+Convert youtube URLs to mp3 files
 
 ## System Requirements
 Name       | Terminal Command
