@@ -7,7 +7,7 @@ Written in Python.
 
 ***System Requirements***\
     | Name:       |    Command:                                                                                           |
-    | - | - |
+    | --- | --- |
     | Homebrew    |    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" |
     | Python 3    |    brew install python                                                                                |
     | youtube_dl  |    pip3 install youtube_dl     download youtube video by URL                                          |
