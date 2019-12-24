@@ -1,6 +1,6 @@
 # Youtube_to_MP3_Converter
 
-Written in Python.
+Written in Python
 
 ## Introduction
 Convert youtube URLs to mp3 files
