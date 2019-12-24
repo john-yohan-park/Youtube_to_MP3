@@ -1,4 +1,4 @@
-# youtube_to_mp3
+# Youtube_to_MP3
 
 Written in Python.<br/>
 
