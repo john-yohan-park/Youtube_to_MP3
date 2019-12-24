@@ -1,9 +1,9 @@
 # Youtube_to_MP3
 
-Written in Python.\
+Written in Python.
 
 ***Introduction***\
-    Takes youtube videos and converts them to mp3 files\
+    Takes youtube videos and converts them to mp3 files
 
 ***System Requirements***\
     Name:           Command:\
