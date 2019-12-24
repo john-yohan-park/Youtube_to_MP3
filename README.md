@@ -6,6 +6,7 @@ Written in Python.
     Takes youtube videos and converts them to mp3 files
 
 ***System Requirements***\
+
 Name | Command
 --- | ---
 Homebrew | `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
