@@ -5,12 +5,12 @@ Written in Python.
 ***Introduction***\
     Takes youtube videos and converts them to mp3 files
 
-First | Second
+Name | Command
 --- | ---
-Content | Content
-Content | Content
-Content | Content
-Content | Content
+Homebrew | /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+Python 3 | brew install python
+youtube_dl | pip3 install youtube_dl     download youtube video by URL
+libav | brew install libav       strips audio from youtube videos (used by youtube_dl) 
 
 ***System Requirements***\
 Name       |    Command
