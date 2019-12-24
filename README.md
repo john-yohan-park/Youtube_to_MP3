@@ -14,7 +14,8 @@ youtube_dl | `pip3 install youtube_dl` (download youtube video by URL)
 libav | `brew install libav` (strips audio from youtube videos) (used by youtube_dl)                           
                                                 
 ## Instructions
-- open `songs.txt` and copy & paste URLs of youtube videos you'd like to convert to mp3 files
+- open `songs.txt`
+- copy & paste URLs of youtube videos you'd like to convert to mp3 files
 - open Terminal
 - cd into `youtube-to-mp3` directory
 - type `python3 downloader.py` in Terminal
