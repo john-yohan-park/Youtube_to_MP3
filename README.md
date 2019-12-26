@@ -3,7 +3,7 @@
 Written in Python
 
 ## Introduction
-Convert youtube videos to mp3 files
+Convert youtube videos into mp3 files
 
 ## System Requirements
 Name       | Terminal Command
