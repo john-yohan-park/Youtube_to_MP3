@@ -10,8 +10,8 @@ Name       | Terminal Command
 ---        | ---
 Homebrew   | `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 Python 3   | `brew install python`
-youtube_dl | `pip3 install youtube_dl` (download youtube video by URL)
-libav      | `brew install libav` (strips audio from youtube videos)
+youtube_dl | `pip3 install youtube_dl`
+libav      | `brew install libav`
 
 ## Instructions
 ***Option 1:*** Download 1 song by passing its URL as command line argument
