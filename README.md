@@ -1,8 +1,4 @@
 # Youtube_to_MP3_Converter
-
-Written in Python
-
-## Introduction
 Convert youtube videos into mp3 files
 
 ## System Requirements
